@@ -5,10 +5,10 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on **[Your Project](https://github.com/your-project)**
-- 🌱 Learning **[Technology or Skill]** 
-- 💬 Ask me about **[Your Expertise/Interests]**
-- ⚡ Fun fact: **[A quirky fact about you]**
+- 🔭 Currently working on **Something Cool**
+- 🌱 Learning **Adv Java** 
+- 💬 Ask me about **DevOps**
+- ⚡ Fun fact: **Workholic**
   
 ---
 
